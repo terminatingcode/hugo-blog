@@ -1,0 +1,19 @@
+baseURL = "http://sarahconnor.tech/"
+languageCode = "en-us"
+title = "TerminatingCode"
+theme = "hugo_theme_robust"
+
+[params]
+  description = "🖤👾"
+  dateformat = "Jan 2, 2006" # Optional
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[params.author]
+  thumbnail = "images/sarah.png"
+  name = "Sarah Connor"
+  description = "<p>Software Engineer</p><p>Just trying to figure out all the bits and bobs.</p>"
+  twitter = "https://twitter.com/terminatingcode"
+  github = "https://github.com/terminatingcode"
