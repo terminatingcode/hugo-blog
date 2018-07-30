@@ -46,13 +46,15 @@ The dependable study technique, Pomodoro is where a timer is used to signal the
 switch between pairs and taking breaks. Typically this is 25 minutes of work + a 5 minute break.
 </div>
 ### Pairmate
-{{% img src="images/gopher.png" caption="Pairmate"%}}
+<div class="flex-class">
+{{% img src="images/keyboard.png" caption="Pairmate"%}}
+{{% img src="images/gopher.png"%}}
+</div>
 A small item like a stuffed animal or tchotchke can be used to signal
 who is navigating. The navigator holds the item to signal that they are not to touch
 the keyboard until that item is passed off to the other.
 ### Switch on Google
-{{% img src="images/search.png" caption="Switch on Google"%}}
+{{% img src="images/google_magnifying_glass.png" caption="Switch on Google"%}}
 Any time the thought pops into a pair’s head that they would like to research
 something further like a bug or documentation, the pair should switch to avoid
 the temptation to research on the side.
-

@@ -1,4 +1,4 @@
-baseURL = "http://sarahconnor.tech/"
+baseURL = "https://sarahconnor.tech/"
 languageCode = "en-us"
 title = "TerminatingCode"
 theme = "hugo_theme_robust"
